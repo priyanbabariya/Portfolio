@@ -1,10 +1,10 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Priyan Babariya",
   initials: "PB",
-  url: "https://github.com/samiksha0shukla",
+  url: "https://github.com/priyanbabariya",
   location: "India",
   locationLink: "https://www.google.com/maps/place/india",
   description:
@@ -85,14 +85,26 @@ export const DATA = {
         "• Worked on a DeFi protocol for the well-known US company Abra\n• Built licensed B2B on-chain exchange using EIP-1167 minimal proxy factory pattern.\n• Created cross-chain token swap with off-chain batching and gas optimization logic.\n• Engineered upgradeable DeFi apps and simulated reentrancy attack for security research.",
     },
     {
+      company: "CodeNova",
+      href: "https://codenovatech.io/",
+      badges: [],
+      location: "On-site",
+      title: "Blockchain Developer",
+      logoUrl: "/CodeNova.jpeg",
+      start: "January 2025",
+      end: "April 2025",
+      description:
+        "• Developed a Solana NFT marketplace with mint, trade, and burn features, including test cases.\n• Built an Ethereum NFT marketplace supporting NFT minting, trading, and burning.\n• Contributed as a smart contract developer to a gamified blockchain project.",
+    },
+    {
       company: "Flexion",
       href: "https://www.flexioninfotech.com/",
       badges: [],
       location: "On-site",
-      title: "Front-end Blockchain Developer",
+      title: "Front-end Blockchain Developer Intern",
       logoUrl: "/flexion_infotech_india_logo.jpeg",
       start: "September 2024",
-      end: "February 2025",
+      end: "December 2024",
       description:
         "• Developed features and fixed critical bugs for Flowkar social platform.\n• Improved application performance and overall user experience.\n• Reduced build size from 600KB to 180KB using lazy loading.\n• Learned and transitioned into blockchain development.",
     },
